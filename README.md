@@ -1,2 +1,3 @@
 # collab
-* Initial commit - first line
+* Initial commit - fixed first line
+
